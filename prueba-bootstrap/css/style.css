@@ -1,0 +1,24 @@
+.logo{
+    width: 10%;
+    height: auto;
+    border-radius: 50%;
+}
+h1{
+   color: aliceblue;
+   text-transform: capitalize;
+   text-align: center;
+}
+.navbar{
+    color: aliceblue;
+    justify-content: right;
+    list-style: none;
+    gap: 1rem;
+}
+h2{
+    text-align: center;
+    background-color: rgb(198, 152, 212);
+}
+.img-sobre-mi{
+    width: 40%;
+    height: 10%;
+}
